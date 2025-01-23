@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            documentation for visual studio code
+        </title>
+        <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" />
+
+    </head>
+    <body>
+        <h1> visual studio code documentation</h1>
+        <h2> visual studio code documentation</h2>
+        <h3> visual studio code documentation</h3>
+        <h4> visual studio code documentation</h4>
+        <h5> visual studio code documentation</h5>
+        <h6> visual studio code documentation</h6>
+
+        <p>Follow the setup guide to install and configure VS Code for your OS.</p>
+
+    <a href="contact.html"> contact </a>
+
+    <img src="devops.webp" width="200px" alt="image not found" />
+    <img src="https://d2myx53yhj7u4b.cloudfront.net/sites/default/files/IC-DevOps-Venn-Diagram.jpg"  width="400px"/>  # send request to the server and get the image from the server
+        
+</body>
+</html>
